@@ -6,9 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "homepage": "https://vinayfaye.github.io/vinayPortfolio/",
     "test": "ng test"
   },
-  "homepage": "https://vinayfaye.github.io/vinayPortfolio",
   "private": false,
   "dependencies": {
     "@angular/animations": "^16.2.0",
